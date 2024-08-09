@@ -1,0 +1,15 @@
+onnx/NET_0_1.5_5.onnx,vnnlib/prop_outbounds.vnnlib
+onnx/NET_0_1.5_5.onnx,vnnlib/prop_far0_eps0.vnnlib
+onnx/NET_0_1.5_5.onnx,vnnlib/prop_far0_eps20.vnnlib
+onnx/NET_0_1.5_5.onnx,vnnlib/prop_near0_eps0.vnnlib
+onnx/NET_0_1.5_5.onnx,vnnlib/prop_near0_eps20.vnnlib
+onnx/NET_1_1.5_5.onnx,vnnlib/prop_outbounds.vnnlib
+onnx/NET_1_1.5_5.onnx,vnnlib/prop_far0_eps0.vnnlib
+onnx/NET_1_1.5_5.onnx,vnnlib/prop_far0_eps20.vnnlib
+onnx/NET_1_1.5_5.onnx,vnnlib/prop_near0_eps0.vnnlib
+onnx/NET_1_1.5_5.onnx,vnnlib/prop_near0_eps20.vnnlib
+onnx/NET_2_1.5_5.onnx,vnnlib/prop_outbounds.vnnlib
+onnx/NET_2_1.5_5.onnx,vnnlib/prop_far0_eps0.vnnlib
+onnx/NET_2_1.5_5.onnx,vnnlib/prop_far0_eps20.vnnlib
+onnx/NET_2_1.5_5.onnx,vnnlib/prop_near0_eps0.vnnlib
+onnx/NET_2_1.5_5.onnx,vnnlib/prop_near0_eps20.vnnlib
