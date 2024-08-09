@@ -1,0 +1,16 @@
+onnx/AC1.onnx,vnnlib/prop_vnnlib_AC1_eps_01_purged.vnnlib
+onnx/AC1.onnx,vnnlib/prop_vnnlib_AC1_eps_001_purged.vnnlib
+onnx/AC2.onnx,vnnlib/prop_vnnlib_AC2_eps_01_purged.vnnlib
+onnx/AC2.onnx,vnnlib/prop_vnnlib_AC2_eps_001_purged.vnnlib
+onnx/AC3.onnx,vnnlib/prop_vnnlib_AC3_eps_01_purged.vnnlib
+onnx/AC3.onnx,vnnlib/prop_vnnlib_AC3_eps_001_purged.vnnlib
+onnx/AC4.onnx,vnnlib/prop_vnnlib_AC4_eps_01_purged.vnnlib
+onnx/AC4.onnx,vnnlib/prop_vnnlib_AC4_eps_001_purged.vnnlib
+onnx/AC5.onnx,vnnlib/prop_vnnlib_AC5_eps_01_purged.vnnlib
+onnx/AC5.onnx,vnnlib/prop_vnnlib_AC5_eps_001_purged.vnnlib
+onnx/AC6.onnx,vnnlib/prop_vnnlib_AC6_eps_01_purged.vnnlib
+onnx/AC6.onnx,vnnlib/prop_vnnlib_AC6_eps_001_purged.vnnlib
+onnx/AC7.onnx,vnnlib/prop_vnnlib_AC7_eps_01_purged.vnnlib
+onnx/AC7.onnx,vnnlib/prop_vnnlib_AC7_eps_001_purged.vnnlib
+onnx/AC8.onnx,vnnlib/prop_vnnlib_AC8_eps_01_purged.vnnlib
+onnx/AC8.onnx,vnnlib/prop_vnnlib_AC8_eps_001_purged.vnnlib
