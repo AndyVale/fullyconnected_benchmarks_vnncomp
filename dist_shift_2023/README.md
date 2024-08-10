@@ -24,8 +24,3 @@ the classifier into a single network ``onnx/mnist_concat.onnx``.
 #### mnist_concat.onnx 
 	Number of parameters: 342696 
 	Node types: ['Gemm' 'Sigmoid' 'Reshape' 'Relu']
-
-#### mnist_generator.onnx 
-	Number of parameters: 316184 
-	Node types: ['Gemm' 'Concat' 'Sigmoid' 'Relu' 'Constant' 'Reshape']
-
