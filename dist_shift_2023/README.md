@@ -1,4 +1,4 @@
-# Benchmarks for VNN-Comp 2023
+# <a href = "https://github.com/anwu1219/dist-shift-vnn-comp"> dist-shift-2023 </a>
 
 ## Description
 
@@ -18,18 +18,6 @@ This mean perturbation is computed by a prior network.
 This benchmark set involves checking the robustness of a MNIST classifier w.r.t. the
 "shear" perturbation. To fit the competition format, we concatenated the generative model and 
 the classifier into a single network ``onnx/mnist_concat.onnx``. 
-
-## Generating the bnechmarks
-
-``python3 generate_properties.py [seed]``
-
-This will randomly pick 72 correctly classified MNIST test images and 
-generate 72 `.vnnlib` files in the ``vnnlib`` folder. It also creates a csv file where each line
-is of the form:
-
-``[network],[property],[timeout]``
-
-A timeout of 5 minutes is given for each query.
 
 ### --- List of all dist_shift_2023 [fullycon_net] networks (From :<a href = 'https://github.com/ChristopherBrix/vnncomp2024_benchmarks'> vnncomp2024_benchmarks </a>)---
 

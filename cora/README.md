@@ -1,4 +1,4 @@
-# Benchmark for VNNCOMP 2024: Verify1s
+# <a href="https://github.com/kollerlukas/cora-vnncomp2024-benchmark"> Benchmark for VNNCOMP 2024: Verify1s </a>
 
 We propose a benchmark for the [VNNCOMP 2024](https://sites.google.com/view/vnn2024) that focuses on verification time. Often, the verification of neural networks is slow; in some cases, the verification can take multiple days, which is often hard to justify. To encourage the fast verification of neural networks, our benchmark focuses on the verification time by setting a small timeout (1s).
 

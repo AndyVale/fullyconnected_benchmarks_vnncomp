@@ -1,4 +1,4 @@
-safeNLP - Safety-critical NLP benchmark for VNNCOMP
+# <a href = "https://github.com/ANTONIONLP/safeNLP">safeNLP - Safety-critical NLP benchmark for VNNCOMP</a>
 ========
 
 Structure
