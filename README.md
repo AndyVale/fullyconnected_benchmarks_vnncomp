@@ -17,6 +17,19 @@ Due to the large file sizes in this repository, all files have been compressed. 
 
 To work with the files, you will need to decompress them first. Below are the instructions for decompressing the files on both Linux and Windows systems.
 
+### Both Linux and Windows
+A script called extract_compress_files_python.py is provided to help manage file compression and extraction. You can use it with the argument "compress" ("c" or "comp") to compress all .vnnlib and .onnx files into .gz format. If no arguments or any other arguments are provided, the script will extract all .gz files.
+
+Extraction:
+```python
+py extract_compress_files_python.py
+```
+
+Compression:
+```bash
+py extract_compress_files_python.py compress
+```
+
 ### Linux
 
 To decompress the files in the root directory and all subdirectories, run the following command in this directory:
