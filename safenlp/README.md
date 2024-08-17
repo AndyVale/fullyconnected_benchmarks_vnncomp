@@ -1,32 +1,7 @@
 # <a href = "https://github.com/ANTONIONLP/safeNLP">safeNLP - Safety-critical NLP benchmark for VNNCOMP</a>
-========
 
-Structure
+In this benchmark, both the /onnx and /vnnlib directories feature two subfolders: medical and ruarobot, representing the datasets used to create this benchmark.
 ------------
-```
-.
-├── data
-│   ├── medical                                      - folder containing the data for the Medical dataset
-│   └── ruarobot                                     - folder containing the data for the R-U-A-Robot dataset
-│   
-├── onnx
-│   ├── medical                                      - folder containing the onnx network for the Medical dataset
-│   └── ruarobot                                     - folder containing the onnx network for the R-U-A-Robot dataset
-│   
-├── vnnlib
-│   ├── medical                                      - folder containing the queries in vnnlib format for the Medical dataset
-│   └── ruarobot                                     - folder containing the queries in vnnlib format for the R-U-A-Robot dataset
-│
-└── generate_properties.py                           - python script to generate the vnnlib queries and the instances.csv file (which is a list of network-query-timeout instances)
-```
-
-Generate benchmarks
-------------
-To generate the .vnnlib and instances.csv files run:
-
-```
-python generate_properties.py SEED
-```
 
 Details
 ------------

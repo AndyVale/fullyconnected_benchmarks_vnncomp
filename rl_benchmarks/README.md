@@ -1,4 +1,4 @@
-# <a href="https://github.com/Ethos-lab/min-err-trajs-vnncomp-benchmarks"> min-err-trajs-vnncomp-benchmarks </a>
+# <a href="https://github.com/Ethos-lab/min-err-trajs-vnncomp-benchmarks">min-err-trajs-vnncomp-benchmarks (rl_benchmarks)</a>
 Benchmarks for vnncomp 2022, generated from work on Minimum-Error Trajectories
 
 ## <a href = "https://github.com/VNNLIB/Benchmarks">Reinforcement Learning</a>

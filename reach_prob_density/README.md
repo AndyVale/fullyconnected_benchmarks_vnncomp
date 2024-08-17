@@ -36,14 +36,6 @@ varscale
 
 easy, *2 medium, *10 hard
 
-## overall
-
-2 hours for vdp
-2 hours for robot
-2 hours for gcas
-
-12 benchmarks each with 10 minute timeout?
-
 ### --- List of all reach_prob_density [fullycon_net] networks (From :<a href = 'https://github.com/ChristopherBrix/vnncomp2022_benchmarks'> vnncomp2022_benchmarks </a>)---
 
 #### gcas.onnx 
