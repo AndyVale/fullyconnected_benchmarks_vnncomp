@@ -1,6 +1,10 @@
 # <a href="https://github.com/pat676/mnist_fc_vnncomp2022">mnist_fc_vnncomp2022</a>
 
-This directory contains fully connected networks trained on the MNIST dataset, "Modified National Institute of Standards and Technology database". The MNIST database is widely used for training image processing systems due to its extensive collection of handwritten digits. All of these networks are part of the VNNCOMP22 benchmarks and are of the fully connected type.
+**Proposed by The VeriNet team.**
+
+**Motivation:** This benchmark contains fully connected networks with ReLU activation functions and varying depths.
+
+**Networks:** The benchmark set consists of three fully connected classification networks with two, four, and six layers and ReLU nodes in each layer trained on the MNIST dataset. The networks were first presented in a benchmark in VNN-COMP.
 
 ### --- List of all mnist_fc [fullycon_net] networks (From :<a href = 'https://github.com/ChristopherBrix/vnncomp2022_benchmarks'> vnncomp2022_benchmarks </a>)---
 

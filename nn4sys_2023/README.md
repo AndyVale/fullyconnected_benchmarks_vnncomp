@@ -1,6 +1,8 @@
 # <a href="https://github.com/Khoury-srg/VNNComp23_NN4Sys">Characterizing Neural Network Verification for Systems with NN4SysBench</a>
 
-We propose a new set of benchmarks for neural network verification for systems (NN4Sys) in this repository. This suite includes verification benchmark for learned index, learned cardinality and learned video stream, which are three tasks that apply neural networks to solve traditional tasks for systems.
+**Proposed by the α,β-CROWN team in collaboration with Cheng Tan and Haoyu He at Northeastern University.**
+
+**Application:** The benchmark contains networks for database learned index and learned cardinality estimation, which map input from various dimensions to a single scalar output.
 
 More details in the original repo...
 

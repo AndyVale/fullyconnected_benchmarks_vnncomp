@@ -1,7 +1,6 @@
 # <a href = "https://github.com/ANTONIONLP/safeNLP">safeNLP - Safety-critical NLP benchmark for VNNCOMP</a>
 
 In this benchmark, both the /onnx and /vnnlib directories feature two subfolders: medical and ruarobot, representing the datasets used to create this benchmark.
-------------
 
 Details
 ------------

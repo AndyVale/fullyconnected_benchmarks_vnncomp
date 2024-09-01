@@ -1,11 +1,10 @@
 # Acasxu
 
-Contains the aerial collision avoidance benchmarks
- 
-This benchmark uses the ACAS Xu networks (from "Reluplex: An efficient SMT solver for verifying deep neural networks"), properties 1-4 run on all networks.
+The ACASXu benchmark consists of ten properties defined over 45 neural networks used to issue turn advisories to aircraft to avoid collisions. The neural networks have 300 neurons arranged in six layers, with ReLU activation functions. There are five inputs corresponding to the aircraft states, and five network outputs, where the minimum output is used as the turn advisory the system ultimately produces.
+
+This benchmark uses the ACAS Xu networks (from "Reluplex: An efficient SMT solver for verifying deep neural networks").
 
 This benchmark is the same as in 2021/2022, and used to compare year-to-year improvements.
-
 
 ### --- List of all acasxu_2023 [fullycon_net] networks (From :<a href = 'https://github.com/ChristopherBrix/vnncomp2024_benchmarks'> vnncomp2024_benchmarks </a>)---
 
